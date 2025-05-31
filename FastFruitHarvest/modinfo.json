@@ -1,0 +1,19 @@
+{
+    "Type": "code",
+    "TextureSize": 32,
+    "Name": "FastFruitHarvest",
+    "Version": "1.0.0",
+    "NetworkVersion": null,
+    "Description": "Makes the harvesting interaction of fruiting bushes and trees much quicker.",
+    "Website": "https://mods.vintagestory.at/fastfruitharvest",
+    "CoreMod": false,
+    "ModID": "fastfruitharvest",
+    "Authors": [
+        "NerArth"
+    ],
+    "Contributors": [],
+    "Side": "Server",
+    "RequiredOnClient": false,
+    "RequiredOnServer": true,
+    "Dependencies": {}
+}

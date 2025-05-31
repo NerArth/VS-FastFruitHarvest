@@ -1,0 +1,23 @@
+[
+    {
+        "op": "replace",
+        "path": "/behaviorsByType/*-ripe/0/properties/harvestTime",
+        "value": 0.1,
+        "side": "server",
+        "file": "game:blocktypes/plant/smallberrybush.json"
+    },
+    {
+        "op": "replace",
+        "path": "/behaviorsByType/*-ripe/0/properties/harvestTime",
+        "value": 0.1,
+        "side": "server",
+        "file": "game:blocktypes/plant/bigberrybush.json"
+    },
+    {
+        "op": "replace",
+        "path": "/behaviorsByType/*-topripe/0/properties/harvestTime",
+        "value": 0.1,
+        "side": "server",
+        "file": "game:blocktypes/plant/saguarocactus.json"
+    }
+]
